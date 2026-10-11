@@ -5,6 +5,12 @@ highlighting the node that's *actually* slow. Today's fix is pasting the
 JSON into a website (`explain.depesz.com`, `pev2`) — this does the same
 analysis locally.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
